@@ -6,6 +6,7 @@
 
 > `docker run --name mycontainer myimage`
 
-![alt text](screenshots/example.png)
+![alt text](screenshots/example_1.png)
+![alt text](screenshots/example_2.png)
 
 
